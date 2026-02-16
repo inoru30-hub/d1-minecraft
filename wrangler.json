@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1-minecraft",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "ddb9bf1a-2327-419b-ac9e-107d6d3e9522",
+			"database_name": "d1-minecraft"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
